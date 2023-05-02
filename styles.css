@@ -1,4 +1,4 @@
-@import ('https://fonts.google.com/specimen/Outfit');
+@import url('https://fonts.google.com/specimen/Outfit');
 
 *, ::after, ::before{
     box-sizing: border-box;
